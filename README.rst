@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
-=======================================
+# yaptd
+## Yet Another Penetration Testing Documentation
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Hey there!
+This documentation is hosted on ReadTheDocs!
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Go give it a try!
+<url>
